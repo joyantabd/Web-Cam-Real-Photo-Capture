@@ -16,6 +16,7 @@
         <button type="button" name="create_record" id="create_record" data-toggle="modal"  class="btn btn-info float-right mb-2">
             <i class="fa fa-plus"></i> Add  Appointment</button>
         <br>
+        <br>
         <div class="container-fluid">
             <div class="table-responsive">
                 <table class="table table-bordered table-striped" id="webcam_table">
